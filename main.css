@@ -1,1 +1,40 @@
-body { font-family: Arial, sans-serif; background: #f9f9f9; }
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background: #002d62;
+    color: white;
+    padding: 2rem 1rem;
+}
+.subheading {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+.cta-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background-color: #f6c31c;
+    color: #002d62;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+section#calculator {
+    background: #fff;
+    padding: 2rem 1rem;
+}
+input {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+footer {
+    background: #002d62;
+    color: white;
+    padding: 1rem;
+}
